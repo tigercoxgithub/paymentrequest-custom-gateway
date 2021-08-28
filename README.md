@@ -1,2 +1,2 @@
 # paymentrequest-custom-gateway
-Snipcart Custom Payment Gateway implementation using Payment Request API
+Snipcart Custom Payment Gateway implementation using Payment Request API by Tiger Cox
